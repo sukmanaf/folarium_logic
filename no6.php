@@ -28,8 +28,6 @@ echo 'Tampilkan 5 angka random dari 1-100';
 		
 		}
 		echo "<br>";
-
-
 	
 	    }
 	

@@ -5,7 +5,7 @@ require 'navbar.php';
 echo 'Buat pola segitiga siku-siku, dan pola lainnya';
 
 
-for($i=1;$i<=5;$i++){
+for($i=0;$i<=5;$i++){
 	for($j=1;$j<=$i;$j++){
 		echo "*";	
 	}
@@ -13,7 +13,7 @@ for($i=1;$i<=5;$i++){
 }
 
 echo "<br>";
-for($a=1; $a<=5; $a++){
+for($a=0; $a<=5; $a++){
     for($b=5; $b>=$a; $b-=1){
         echo '&nbsp';
     }

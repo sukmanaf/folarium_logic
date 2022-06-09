@@ -24,5 +24,4 @@ if(@$_POST){
 		<button type="submit" name="submit" value="submit">Hasil</button>
 
 </form>
-
 <?php echo @$hasil; ?>
